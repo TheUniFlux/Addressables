@@ -1,0 +1,25 @@
+{
+    "name": "com.kingdox.uniflux.addressables",
+    "displayName": "UniFlux",
+    "author": "Xavier Thomas Peter Arpa López ('Kingdox')",
+    "version": "1.0.0",
+    "unity": "2019.1",
+    "description": "Addressables Module",
+    "keywords": [
+      "Flux",
+      "Unity",
+      "UniFlux"
+    ],
+    "license": "MIT",
+    "category": "Flux",
+    "repository": 
+    {
+      "type": "git",
+      "url": "git+https://github.com/kingdox/UniFlux.Addressables.git"
+    },
+    "bugs": {
+      "url": "https://github.com/kingdox/UniFlux.Addressables/issues"
+    },
+    "homepage": "https://github.com/kingdox/UniFlux#readme"
+  }
+  
