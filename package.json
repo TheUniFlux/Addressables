@@ -10,6 +10,9 @@
       "Unity",
       "UniFlux"
     ],
+    "dependencies": {
+        "com.xavierarpa.uniflux":"^1.0.0"
+    },
     "license": "MIT",
     "category": "Flux",
     "repository": 
